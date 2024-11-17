@@ -1,7 +1,7 @@
 ! Title: Timco307 games blocklist
 ! Description: A blocklist of lots of game websites that people play games on!
 ! Homepage: https://github.com/Timco307/DNSblocklist_games
-! Last modified: 2024-11-16T23:57:45.368Z
+! Last modified: 2024-11-17T23:01:38.368Z
 ! License: https://github.com/Timco307/DNSblocklist_games/blob/main/LICENSE
 ! Raw License: https://raw.githubusercontent.com/Timco307/DNSblocklist_games/refs/heads/main/LICENSE
 !
@@ -28,8 +28,13 @@
 ||hexanaut.io^
 ||copter.io^
 ||yohoho.io^
+||now.gg^
+||astrorace.io^
+||defly.io^
+||nitroclash.io^
+||super-hex.io^
+||lolbeans.io^
+||lolshot.io^
+||bigbossdolphin.com^
 ||^
 ||^
-||^
-||^
-
