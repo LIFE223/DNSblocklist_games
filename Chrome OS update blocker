@@ -1,1 +1,15 @@
-
+! Title: Timco307 Chrome OS update blocker
+! Description: If you don't want to have you Chromebook to update soooooo often just use this block list
+! Homepage: https://github.com/Timco307/DNSblocklist_games
+! Last modified: 2025-1-10T09:07:00.368Z
+! License: https://github.com/Timco307/DNSblocklist_games/blob/main/LICENSE
+! Raw License: https://raw.githubusercontent.com/Timco307/DNSblocklist_games/refs/heads/main/LICENSE
+!
+!
+!
+!
+||m.google.com^
+||commondatastorage.googleapis.com^
+||update.google.com^
+||redirector.gvt1.com^
+||cros-ota.l.google.com^
