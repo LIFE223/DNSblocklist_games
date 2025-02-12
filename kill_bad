@@ -1,7 +1,7 @@
 ! Title: Timco307 blocker blocklist
 ! Description: A blocklist that blocks well SECURELY
 ! Homepage: https://github.com/Timco307/DNSblocklist_games
-! Last modified: 2024-12-20T21:28:50.368Z
+! Last modified: 2025-2-20T8:48:15.368Z
 ! License: https://github.com/Timco307/DNSblocklist_games/blob/main/LICENSE
 ! Raw License: https://raw.githubusercontent.com/Timco307/DNSblocklist_games/refs/heads/main/LICENSE
 !
@@ -24,3 +24,12 @@
 ||rr3---sn-q4fl6nsl.gvt1.com^$important
 ||cdn1.securly.com^$important
 ||safebrowsingohttpgateway.googleapis.com^$important
+||useast-www.securly.com.lan^$important
+||chromeosalmanac-pa.googleapis.com^$important
+||chromereporting-pa.googleapis.com^$important
+||mtalk.google.com^$important
+||fcmconnection.googleapis.com^$important
+||storage.googleapis.com^$important
+||chromeos-ca.gstatic.com^$important
+||cryptauthenrollment.googleapis.com^$important
+||securitydomain-pa.googleapis.com^$important
